@@ -1,0 +1,3 @@
+function falarDepoisDe(segundos, frase){
+    
+}
